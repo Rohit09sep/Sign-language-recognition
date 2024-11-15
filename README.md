@@ -24,7 +24,7 @@ TensorFlow/Keras (for deep learning model training)
 
 Installation
 Clone this repository:
-git clone https://github.com/your-username/sign-language-recognition.git
+git clone https://github.com/Rohit09sep/Sign-language-recognition
 Install dependencies:
 pip install -r requirements.txt
 
