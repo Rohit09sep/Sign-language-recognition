@@ -1,4 +1,4 @@
-This project focuses on recognizing sign language gestures using computer vision and machine learning. The system is trained to identify specific hand signs commonly used in basic conversations. Our model can recognize the following signs:
+This project focuses on recognizing sign language gestures using computer vision and machine learning. The system is trained to identify specific hand signs commonly used in basic conversations. This model can recognize the following signs:
 
 BYE
 HELLO
